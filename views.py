@@ -24,7 +24,7 @@ def current_datetime(request):
 
 
 def hours_ahead(request, offset):
-    """ If URL /time/plus/3/, Then offset =>3'    
+    """ If URL /time/plus/3/, Then offset ===>3'    
 
     """
     try:
