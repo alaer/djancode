@@ -8,7 +8,7 @@ import datetime
 
 
 def hello(request):
-    return HttpResponse("qwerty2")
+    return HttpResponse("qwerty22")
 
 def my_homepage_view(request):
     return HttpResponse("My_Home_Page")
